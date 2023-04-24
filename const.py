@@ -1,0 +1,1 @@
+boardlen = 20
