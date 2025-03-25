@@ -1,1 +1,1 @@
-boardlen = 20
+boardlen = 10
